@@ -1,6 +1,6 @@
 {
-  "name": "Start on Heroku: PHP",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/heroku/php-getting-started",
+  "name": "Wireless Switch",
+  "description": "A wireless switch server and user interface",
+  "repository": "https://github.com/dion-ricky/wireless-switch-server",
   "addons": []
 }
